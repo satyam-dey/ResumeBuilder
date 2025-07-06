@@ -47,12 +47,12 @@ A fully responsive, stylish, and dynamic Resume Builder built using **HTML**, **
 
 ## 📂 Project Structure
 
-\`\`\`
-resume-builder/
-├── index.html
-├── styles.css
-├── script.js
-\`\`\`
+
+    resume-builder/
+    ├── index.html
+    ├── styles.css
+    ├── script.js
+
 
 ---
 
